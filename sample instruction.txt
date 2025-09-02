@@ -1,0 +1,7 @@
+name of employee should be mentioned
+Name of employer should be mentioned
+check if motor vehicle accident is checked
+Name of the physician should be mentioned
+Date of birth (DOB) should be mentioned
+check if Signature of employee or personal representative is there or not
+Group STD policy number should be mentioned
