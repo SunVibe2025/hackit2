@@ -1,5 +1,0 @@
-I wan to add SMTP notification as well where the user or examiner can subscribe for the email notifications and get notified every time whenever there is any changes in the instructions.
-
-I have configures emails in .env file.
-
-Please note that , I only want to trigger a email notification whenever there is any change in instructions of any policy , then subscriber should receive a notification that for which policy change was made , by whom and when?
